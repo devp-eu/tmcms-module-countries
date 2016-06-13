@@ -1,0 +1,21 @@
+{
+  "name": "neTpyceB/tmcms-module-countries",
+  "type": "library",
+  "description": "Module Countries for TMCms",
+  "keywords": ["module", "countries", "TMCms"],
+  "homepage": "http://devp.eu/",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vadims Petrusevs",
+      "email": "info@devp.eu",
+      "homepage": "http://devp.eu/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TMCms\\Modules\\Countries\\": "src"
+    }
+  }
+}

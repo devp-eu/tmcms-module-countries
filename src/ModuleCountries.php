@@ -2,6 +2,7 @@
 
 namespace TMCms\Modules\Countries;
 
+use TMCms\Modules\Countries\Entity\CountryEntityRepository;
 use TMCms\Modules\IModule;
 use TMCms\Traits\singletonInstanceTrait;
 
